@@ -21,6 +21,5 @@ public class TrappingRainWater  {
         }
         return total_water;
     }
-} {
+} 
     
-}
